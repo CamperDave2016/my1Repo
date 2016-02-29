@@ -1,1 +1,3 @@
 Hello World!
+Step by step to learn git...
+# my1Repo
